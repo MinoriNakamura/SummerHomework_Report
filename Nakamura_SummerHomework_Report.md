@@ -1,0 +1,2 @@
+# SummerHomework_Report
+リーダビルコードのレポート第一弾
